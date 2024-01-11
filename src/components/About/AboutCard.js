@@ -9,8 +9,8 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone,<br /> I am <span className="purple">Aleksa Vioglavin </span>
-            from <span className="purple"> United State </span> and now I live in
-            <span className="purple"> United State. </span>
+            from <span className="purple"> Serbia </span> and now I live in
+            <span className="purple"> Serbia. </span>
             <br /> As a senior Web Developer, I have deep experience in this area.
             <br />
             Additionally, I am freelancer and looking for a job opportunity.
